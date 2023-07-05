@@ -10,6 +10,8 @@ import static io.restassured.RestAssured.*;
 
 public class Createusertest {
 @Test
+
+	
 	public void CreateUser() {
 		baseURI ="https://reqres.in/";
 		
